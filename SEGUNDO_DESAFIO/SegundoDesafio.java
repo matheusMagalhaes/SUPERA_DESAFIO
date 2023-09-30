@@ -1,4 +1,4 @@
-package segundoDesafio;
+package SEGUNDO_DESAFIO;
 
 import java.math.BigDecimal;
 import java.util.LinkedHashMap;

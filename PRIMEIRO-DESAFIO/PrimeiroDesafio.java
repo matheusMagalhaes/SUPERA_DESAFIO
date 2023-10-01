@@ -1,4 +1,3 @@
-package PRIMEIRO_DESAFIO;
 
 import java.util.ArrayList;
 import java.util.Comparator;

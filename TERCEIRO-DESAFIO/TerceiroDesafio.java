@@ -1,4 +1,3 @@
-package TERCEIRO_DESAFIO;
 
 import java.util.HashMap;
 import java.util.Map;

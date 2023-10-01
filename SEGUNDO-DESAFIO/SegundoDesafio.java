@@ -1,8 +1,4 @@
-package SEGUNDO_DESAFIO;
 
-import java.math.BigDecimal;
-import java.util.LinkedHashMap;
-import java.util.Map;
 import java.util.Scanner;
 
 public class SegundoDesafio {

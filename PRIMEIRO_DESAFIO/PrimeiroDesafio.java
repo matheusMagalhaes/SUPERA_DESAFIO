@@ -23,13 +23,12 @@ public class PrimeiroDesafio {
     }
 
     return sortedArray
-      .stream()
-      .sorted(
-        Comparator
-          .comparingInt((Integer num) -> num % 2)
-          .thenComparingInt(num -> num)
-      )
-      .collect(Collectors.toList());
+        .stream()
+        .sorted(
+            Comparator
+                .comparingInt((Integer num) -> num % 2)
+                .thenComparingInt(num -> num))
+        .collect(Collectors.toList());
   }
 
   public static void main(String[] args) {
